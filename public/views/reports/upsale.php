@@ -1,0 +1,2 @@
+<?php require_once(rtrim($_SERVER['DOCUMENT_ROOT'], '/') . '/wp-load.php'); ?>
+<p><?php _e(wp_sprintf( 'You do not have any reports yet, but you can purchase them in <a href="%s">shop</a>.',  get_permalink( get_page_by_path( 'shop' ) ))); ?></p>

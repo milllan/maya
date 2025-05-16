@@ -1,0 +1,42 @@
+[30-Jan-2025 15:56:03 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /home/mymayansign.com/public_html/wp-includes/class-wpdb.php on line 1982
+[02-Apr-2025 06:26:40 UTC] PHP Warning:  Undefined array key "class" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 18
+[02-Apr-2025 06:26:40 UTC] PHP Warning:  Undefined array key "heading" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 22
+[02-Apr-2025 06:26:40 UTC] PHP Warning:  Undefined array key "body" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 23
+[02-Apr-2025 06:26:40 UTC] PHP Warning:  Undefined array key "form" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 26
+[02-Apr-2025 06:29:24 UTC] PHP Warning:  Undefined array key "class" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 18
+[02-Apr-2025 06:29:24 UTC] PHP Warning:  Undefined array key "heading" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 22
+[02-Apr-2025 06:29:24 UTC] PHP Warning:  Undefined array key "body" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 23
+[02-Apr-2025 06:29:24 UTC] PHP Warning:  Undefined array key "form" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 26
+[02-Apr-2025 06:29:57 UTC] PHP Warning:  Undefined array key "class" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 18
+[02-Apr-2025 06:29:57 UTC] PHP Warning:  Undefined array key "heading" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 22
+[02-Apr-2025 06:29:57 UTC] PHP Warning:  Undefined array key "body" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 23
+[02-Apr-2025 06:29:57 UTC] PHP Warning:  Undefined array key "form" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 26
+[02-Apr-2025 06:30:13 UTC] PHP Warning:  Undefined array key "class" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 18
+[02-Apr-2025 06:30:13 UTC] PHP Warning:  Undefined array key "heading" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 22
+[02-Apr-2025 06:30:13 UTC] PHP Warning:  Undefined array key "body" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 23
+[02-Apr-2025 06:30:13 UTC] PHP Warning:  Undefined array key "form" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 26
+[02-Apr-2025 06:30:48 UTC] PHP Warning:  Undefined array key "class" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 18
+[02-Apr-2025 06:30:48 UTC] PHP Warning:  Undefined array key "heading" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 22
+[02-Apr-2025 06:30:48 UTC] PHP Warning:  Undefined array key "body" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 23
+[02-Apr-2025 06:30:48 UTC] PHP Warning:  Undefined array key "form" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 26
+[02-Apr-2025 06:33:26 UTC] PHP Warning:  Undefined array key "class" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 18
+[02-Apr-2025 06:33:26 UTC] PHP Warning:  Undefined array key "heading" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 22
+[02-Apr-2025 06:33:26 UTC] PHP Warning:  Undefined array key "body" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 23
+[02-Apr-2025 06:33:26 UTC] PHP Warning:  Undefined array key "form" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 26
+[02-Apr-2025 06:34:05 UTC] PHP Warning:  Undefined array key "class" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 18
+[02-Apr-2025 06:34:05 UTC] PHP Warning:  Undefined array key "heading" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 22
+[02-Apr-2025 06:34:05 UTC] PHP Warning:  Undefined array key "body" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 23
+[02-Apr-2025 06:34:05 UTC] PHP Warning:  Undefined array key "form" in /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/popup.php on line 26
+[03-Apr-2025 10:16:42 UTC] PHP Warning:  include(/home/mymayansign.com/public_html/wp-content/plugins/wordpress-seo-premium/vendor/composer/../../classes/premium-option.php): Failed to open stream: No such file or directory in /home/mymayansign.com/public_html/wp-content/plugins/advanced-cron-manager/vendor/composer/ClassLoader.php on line 576
+[03-Apr-2025 10:16:42 UTC] PHP Warning:  include(/home/mymayansign.com/public_html/wp-content/plugins/wordpress-seo-premium/vendor/composer/../../classes/premium-option.php): Failed to open stream: No such file or directory in /home/mymayansign.com/public_html/wp-content/plugins/advanced-cron-manager/vendor/composer/ClassLoader.php on line 576
+[03-Apr-2025 10:16:42 UTC] PHP Warning:  include(): Failed opening '/home/mymayansign.com/public_html/wp-content/plugins/wordpress-seo-premium/vendor/composer/../../classes/premium-option.php' for inclusion (include_path='.:/usr/local/lsws/lsphp81/share/pear:/usr/local/lsws/lsphp81/share/php:/usr/share/pear:/usr/share/php') in /home/mymayansign.com/public_html/wp-content/plugins/advanced-cron-manager/vendor/composer/ClassLoader.php on line 576
+[03-Apr-2025 10:16:42 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "WPSEO_Premium_Option" not found in /home/mymayansign.com/public_html/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /home/mymayansign.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#1 /home/mymayansign.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/mymayansign.com/public_html/wp-settings.php(709): do_action()
+#3 /home/mymayansign.com/public_html/wp-config.php(100): require_once('...')
+#4 /home/mymayansign.com/public_html/wp-load.php(50): require_once('...')
+#5 /home/mymayansign.com/public_html/wp-content/plugins/maya/public/views/part/date-picker-custom.php(16): require_once('...')
+#6 {main}
+  thrown in /home/mymayansign.com/public_html/wp-includes/class-wp-hook.php on line 324

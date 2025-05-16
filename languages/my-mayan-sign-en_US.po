@@ -1,0 +1,935 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: My Mayan Sign\n"
+"POT-Creation-Date: 2019-03-25 17:27+0200\n"
+"PO-Revision-Date: 2019-11-25 13:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-my-mayan-sign-notifications.php:98
+msgid "Today is "
+msgstr ""
+
+#: includes/class-my-mayan-sign-notifications.php:101
+msgid "Today in Mayan Calendar "
+msgstr ""
+
+#: includes/class-my-mayan-sign-notifications.php:133
+msgid "Today in your custom Calendar "
+msgstr ""
+
+#: includes/class-my-mayan-sign-pages.php:104
+msgid "Get A Full Report"
+msgstr ""
+
+#: includes/class-my-mayan-sign-pages.php:371
+#: includes/class-my-mayan-sign-pages.php:409 includes/functions.php:59
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/class-my-mayan-sign-pages.php:382
+#: includes/class-my-mayan-sign-pages.php:423
+#: includes/class-my-mayan-sign-product-manager.php:68
+msgid "Action not allowed!"
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:537
+msgid ", "
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:539
+msgid " and "
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:545
+#: includes/class-my-mayan-sign-procedures-unsorted.php:557
+msgid "To view this please <a href=\""
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:568
+#: includes/class-my-mayan-sign-procedures-unsorted.php:660
+#: includes/class-my-mayan-sign-procedures-unsorted.php:755
+msgid "JANUARY"
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:571
+#: includes/class-my-mayan-sign-procedures-unsorted.php:663
+#: includes/class-my-mayan-sign-procedures-unsorted.php:758
+msgid "FEBRUARY"
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:574
+#: includes/class-my-mayan-sign-procedures-unsorted.php:666
+#: includes/class-my-mayan-sign-procedures-unsorted.php:761
+msgid "MARCH"
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:577
+#: includes/class-my-mayan-sign-procedures-unsorted.php:669
+#: includes/class-my-mayan-sign-procedures-unsorted.php:764
+msgid "APRIL"
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:580
+#: includes/class-my-mayan-sign-procedures-unsorted.php:672
+#: includes/class-my-mayan-sign-procedures-unsorted.php:767
+msgid "MAY"
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:583
+#: includes/class-my-mayan-sign-procedures-unsorted.php:675
+#: includes/class-my-mayan-sign-procedures-unsorted.php:770
+msgid "JUNE"
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:586
+#: includes/class-my-mayan-sign-procedures-unsorted.php:678
+#: includes/class-my-mayan-sign-procedures-unsorted.php:773
+msgid "JULY"
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:589
+#: includes/class-my-mayan-sign-procedures-unsorted.php:681
+#: includes/class-my-mayan-sign-procedures-unsorted.php:776
+msgid "AUGUST"
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:592
+#: includes/class-my-mayan-sign-procedures-unsorted.php:684
+#: includes/class-my-mayan-sign-procedures-unsorted.php:779
+msgid "SEPTEMBER"
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:595
+#: includes/class-my-mayan-sign-procedures-unsorted.php:687
+#: includes/class-my-mayan-sign-procedures-unsorted.php:782
+msgid "OCTOBER"
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:598
+#: includes/class-my-mayan-sign-procedures-unsorted.php:690
+#: includes/class-my-mayan-sign-procedures-unsorted.php:785
+msgid "NOVEMBER"
+msgstr ""
+
+#: includes/class-my-mayan-sign-procedures-unsorted.php:601
+#: includes/class-my-mayan-sign-procedures-unsorted.php:693
+#: includes/class-my-mayan-sign-procedures-unsorted.php:788
+msgid "DECEMBER"
+msgstr ""
+
+#: includes/functions.php:142
+msgid "Once every 5 minutes"
+msgstr ""
+
+#: includes/functions.php:148
+msgid "Once every 30 minutes"
+msgstr ""
+
+#: includes/functions.php:194
+msgid "Would you like to read more? Please click here to order."
+msgstr ""
+
+#: includes/functions.php:323
+msgid "Birthday"
+msgstr ""
+
+#: includes/functions.php:337
+msgid "ERROR"
+msgstr ""
+
+#: includes/functions.php:337
+msgid "You must include a first name."
+msgstr ""
+
+#: includes/functions.php:753
+msgid "My Mayan Dates"
+msgstr ""
+
+#: includes/functions.php:784
+msgid "Important Mayan Dates"
+msgstr ""
+
+#: includes/functions.php:899
+msgid "Something went wrong..."
+msgstr ""
+
+#: includes/functions.php:920 includes/functions.php:962
+msgid "Active"
+msgstr ""
+
+#: includes/functions.php:923 includes/functions.php:965
+#: public/views/part/popups-email-notifications.php:28
+#: public/views/part/popups-email-notifications.php:42
+msgid "Disable email notifications"
+msgstr ""
+
+#: includes/functions.php:927 includes/functions.php:969
+msgid "Inactive"
+msgstr ""
+
+#: includes/functions.php:930 includes/functions.php:972
+#: public/views/part/popups-email-notifications.php:56
+#: public/views/part/popups-email-notifications.php:70
+msgid "Enable email notifications"
+msgstr ""
+
+#: includes/functions.php:937 includes/functions.php:979
+msgid "Expired"
+msgstr ""
+
+#: includes/functions.php:1450 includes/functions.php:1503
+msgid "Gender"
+msgstr ""
+
+#: includes/functions.php:1454
+msgid "Please select a value"
+msgstr ""
+
+#: includes/functions.php:1455 public/report/pdf/detailed.php:272
+#: public/report/pdf/simple.php:313 public/report/pdf/standard.php:304
+#: public/views/part/gender-picker.php:29
+#: public/views/reports/detailed_graph.php:44
+#: public/views/reports/simple_graph.php:29
+#: public/views/reports/standard_graph.php:29
+msgid "Male"
+msgstr ""
+
+#: includes/functions.php:1456 public/report/pdf/detailed.php:286
+#: public/report/pdf/simple.php:327 public/report/pdf/standard.php:318
+#: public/views/part/gender-picker.php:30
+#: public/views/reports/detailed_graph.php:54
+#: public/views/reports/simple_graph.php:39
+#: public/views/reports/standard_graph.php:39
+msgid "Female"
+msgstr ""
+
+#: includes/functions.php:1502
+msgid "Date of Birth"
+msgstr ""
+
+#: includes/functions.php:1561
+msgid "Please fill the fields."
+msgstr ""
+
+#: includes/functions.php:1569
+msgid "Details saved. Thank you."
+msgstr ""
+
+#: includes/functions.php:1574
+msgid "Someting went wrong. Please try later."
+msgstr ""
+
+#: includes/functions.php:2004 includes/functions.php:2008
+#: includes/functions.php:2012 includes/functions.php:2016
+msgctxt "my-mayan-sign"
+msgid "Örnek Rapor"
+msgstr ""
+
+#: includes/functions.php:2119
+msgid "Debug meta"
+msgstr ""
+
+#: includes/functions.php:2234 includes/functions.php:2287
+msgctxt "my-mayan-sign"
+msgid "(Upgrade)"
+msgstr ""
+
+#: includes/functions.php:2256
+msgid "Upgrade discount"
+msgstr ""
+
+#: includes/mymasi-custom-post-types.php:284
+#: public/views/part/date-picker-custom.php:27
+msgid "Day"
+msgstr ""
+
+#: includes/mymasi-redirects.php:171
+msgid "Redirecting to content..."
+msgstr ""
+
+#: public/class-my-mayan-sign-public.php:106
+msgid "Loading..."
+msgstr ""
+
+#: public/class-my-mayan-sign-public.php:107
+msgid "Please fill all fields."
+msgstr ""
+
+#: public/class-my-mayan-sign-public.php:108
+msgid "Error."
+msgstr ""
+
+#: public/class-my-mayan-sign-public.php:109
+msgid "Register and recalculate"
+msgstr ""
+
+#: public/report/email/gift.php:18
+msgid "Get your gift"
+msgstr ""
+
+#: public/report/email/important-mayan.php:12
+#: public/report/email/report.php:13
+#: public/report/email/today_in_your_mc.php:12
+msgid "Hi"
+msgstr ""
+
+#: public/report/email/important-mayan.php:14
+#: public/report/email/today_in_your_mc.php:14
+msgid "Disable email notifications in your dashboard"
+msgstr ""
+
+#: public/report/pdf/detailed.php:235 public/report/pdf/simple.php:276
+#: public/report/pdf/standard.php:267
+#: public/views/reports/detailed_graph.php:21
+#: public/views/reports/simple_graph.php:6
+#: public/views/reports/standard_graph.php:6
+msgid "Day Sign:"
+msgstr ""
+
+#: public/report/pdf/detailed.php:243 public/report/pdf/simple.php:284
+#: public/report/pdf/standard.php:275
+#: public/views/reports/detailed_graph.php:25
+#: public/views/reports/simple_graph.php:10
+#: public/views/reports/standard_graph.php:10
+msgid "Galactic tone:"
+msgstr ""
+
+#: public/report/pdf/detailed.php:251 public/report/pdf/simple.php:292
+#: public/report/pdf/standard.php:283
+#: public/views/reports/detailed_graph.php:29
+#: public/views/reports/simple_graph.php:14
+#: public/views/reports/standard_graph.php:14
+msgid "Trecana sign:"
+msgstr ""
+
+#: public/report/pdf/detailed.php:262 public/report/pdf/simple.php:303
+#: public/report/pdf/standard.php:294
+#: public/views/reports/calculator_graph.php:21
+#: public/views/reports/detailed_graph.php:36
+#: public/views/reports/simple_graph.php:21
+#: public/views/reports/standard_graph.php:21
+msgid "Tree of Life"
+msgstr ""
+
+#: public/report/pdf/detailed.php:279 public/report/pdf/simple.php:320
+#: public/report/pdf/standard.php:311
+#: public/views/reports/detailed_graph.php:49
+#: public/views/reports/simple_graph.php:34
+#: public/views/reports/standard_graph.php:34
+msgid "Center"
+msgstr ""
+
+#: public/report/pdf/detailed.php:295 public/report/pdf/detailed.php:345
+#: public/report/pdf/detailed.php:396
+#: public/views/reports/detailed_graph.php:66
+#: public/views/reports/detailed_graph.php:122
+#: public/views/reports/detailed_graph.php:179
+msgid "You are here, at this moment of your life."
+msgstr ""
+
+#: public/report/pdf/detailed.php:301 public/report/pdf/simple.php:337
+#: public/report/pdf/standard.php:328
+#: public/views/reports/detailed_graph.php:77
+msgid "Youth"
+msgstr ""
+
+#: public/report/pdf/detailed.php:351 public/report/pdf/simple.php:381
+#: public/report/pdf/standard.php:372
+#: public/views/reports/detailed_graph.php:134
+msgid "Adult"
+msgstr ""
+
+#: public/report/pdf/detailed.php:402 public/report/pdf/simple.php:426
+#: public/report/pdf/standard.php:417
+#: public/views/reports/detailed_graph.php:190
+msgid "Mature"
+msgstr ""
+
+#: public/report/pdf/detailed.php:448
+msgid "Stage of Youth"
+msgstr ""
+
+#: public/report/pdf/detailed.php:456 public/report/pdf/standard.php:535
+#: public/views/competency/view.php:31
+#: public/views/reports/detailed_youth.php:34
+#: public/views/reports/detailed_youth_print.php:29
+#: public/views/reports/standard_four_directions.php:17
+msgid "Your Youth Sign - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:469 public/report/pdf/standard.php:548
+#: public/views/reports/detailed_youth.php:42
+#: public/views/reports/detailed_youth_print.php:37
+msgid "Your Youth Tone - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:482 public/views/competency/view.php:55
+#: public/views/reports/detailed_youth.php:50
+#: public/views/reports/detailed_youth_print.php:45
+msgid "Your Youth Female Sign - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:495
+#: public/views/reports/detailed_youth.php:58
+#: public/views/reports/detailed_youth_print.php:53
+msgid "Your Youth Female Tone - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:508 public/views/competency/view.php:47
+#: public/views/reports/detailed_youth.php:66
+#: public/views/reports/detailed_youth_print.php:61
+msgid "Your Youth Male Sign - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:521
+#: public/views/reports/detailed_youth.php:74
+#: public/views/reports/detailed_youth_print.php:69
+msgid "Your Youth Male Tone - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:534
+msgid "Adult Stage"
+msgstr ""
+
+#: public/report/pdf/detailed.php:548
+#: public/views/reports/detailed_adult.php:33
+#: public/views/reports/detailed_adult_print.php:28
+msgid "Your Day (Adult) Sign - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:561 public/report/pdf/standard.php:498
+#: public/views/reports/core.php:43 public/views/reports/detailed_adult.php:41
+#: public/views/reports/detailed_adult_print.php:36
+msgid "Your Galactic Tone - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:574 public/report/pdf/simple.php:536
+#: public/report/pdf/standard.php:511 public/views/reports/core.php:51
+#: public/views/reports/detailed_adult.php:49
+#: public/views/reports/detailed_adult_print.php:44
+msgid "Your Trecana Sign - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:587 public/report/pdf/standard.php:622
+#: public/views/competency/view.php:71
+#: public/views/reports/detailed_adult.php:57
+#: public/views/reports/detailed_adult_print.php:52
+#: public/views/reports/standard_four_directions.php:72
+msgid "Your Female Sign - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:600 public/report/pdf/standard.php:635
+#: public/views/reports/detailed_adult.php:65
+#: public/views/reports/detailed_adult_print.php:60
+#: public/views/reports/standard_four_directions.php:80
+msgid "Your Female Tone - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:613 public/report/pdf/standard.php:596
+#: public/views/competency/view.php:63
+#: public/views/reports/detailed_adult.php:73
+#: public/views/reports/detailed_adult_print.php:68
+#: public/views/reports/standard_four_directions.php:56
+msgid "Your Male Sign - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:626 public/report/pdf/standard.php:609
+#: public/views/reports/detailed_adult.php:81
+#: public/views/reports/detailed_adult_print.php:76
+#: public/views/reports/standard_four_directions.php:64
+msgid "Your Male Tone - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:639
+msgid "Mature Life Stage"
+msgstr ""
+
+#: public/report/pdf/detailed.php:653 public/report/pdf/standard.php:561
+#: public/views/reports/detailed_mature.php:34
+#: public/views/reports/detailed_mature_print.php:28
+#: public/views/reports/standard_four_directions.php:33
+msgid "Your Mature Sign - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:666 public/report/pdf/standard.php:574
+#: public/views/reports/detailed_mature.php:42
+#: public/views/reports/detailed_mature_print.php:36
+#: public/views/reports/standard_four_directions.php:41
+msgid "Your Mature Tone - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:679
+#: public/views/reports/detailed_mature.php:50
+#: public/views/reports/detailed_mature_print.php:60
+msgid "Your Mature Female Sign - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:692
+#: public/views/reports/detailed_mature.php:58
+#: public/views/reports/detailed_mature_print.php:68
+msgid "Your Mature Female Tone - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:705
+#: public/views/reports/detailed_mature.php:66
+#: public/views/reports/detailed_mature_print.php:44
+msgid "Your Mature Male Sign - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:718
+#: public/views/reports/detailed_mature.php:74
+#: public/views/reports/detailed_mature_print.php:52
+msgid "Your Mature Male Tone - "
+msgstr ""
+
+#: public/report/pdf/detailed.php:731 public/report/pdf/standard.php:648
+msgid "Synthesis"
+msgstr ""
+
+#: public/report/pdf/detailed.php:744
+msgid "Night lords"
+msgstr ""
+
+#: public/report/pdf/detailed.php:769 public/report/pdf/simple.php:548
+#: public/report/pdf/standard.php:660
+msgid "© 2019, My Mayan Sign"
+msgstr ""
+
+#: public/report/pdf/simple.php:471
+msgid "Upgrade to Standard report"
+msgstr ""
+
+#: public/report/pdf/simple.php:476
+msgid "or"
+msgstr ""
+
+#: public/report/pdf/simple.php:481 public/report/pdf/standard.php:459
+msgid "Upgrade to Detailed report"
+msgstr ""
+
+#: public/report/pdf/simple.php:502 public/report/pdf/standard.php:477
+msgid "Core Sign"
+msgstr ""
+
+#: public/report/pdf/simple.php:510 public/report/pdf/standard.php:485
+#: public/views/reports/core.php:35
+msgid "Your Day Sign - "
+msgstr ""
+
+#: public/report/pdf/simple.php:523
+msgid "Your Galactic Tone "
+msgstr ""
+
+#: public/report/pdf/standard.php:524
+msgid "Four Directions"
+msgstr ""
+
+#: public/report/pdf/standard.php:585
+#: public/views/reports/standard_four_directions.php:47
+msgid "Male and Female Signs"
+msgstr ""
+
+#: public/views/calculator.php:26 public/views/today_in_mc.php:25
+msgid "Day Sign"
+msgstr ""
+
+#: public/views/calculator.php:36 public/views/today_in_mc.php:31
+msgid "Galactic Tone"
+msgstr ""
+
+#: public/views/calculator.php:46 public/views/today_in_mc.php:37
+msgid "Trecana Sign"
+msgstr ""
+
+#: public/views/calculator.php:80 public/views/core_sign_detailed.php:20
+#: public/views/core_sign_free.php:20
+msgid "Your Day Sign"
+msgstr ""
+
+#: public/views/calculator.php:105 public/views/core_sign_detailed.php:26
+#: public/views/core_sign_free.php:26
+msgid "Your Tone"
+msgstr ""
+
+#: public/views/calculator.php:123 public/views/core_sign_detailed.php:32
+#: public/views/core_sign_free.php:32
+msgid "Your Trecana Sign"
+msgstr ""
+
+#: public/views/calculator_form.php:7
+msgctxt "my-mayan-sign"
+msgid "Register and recalculate"
+msgstr ""
+
+#: public/views/calculator_form.php:35
+msgid "Find Out My Mayan Sign"
+msgstr ""
+
+#: public/views/competency/create.php:22
+msgid "Items left in package: "
+msgstr ""
+
+#: public/views/competency/create.php:22
+#, php-format
+msgid "%s combination"
+msgid_plural "%s combinations"
+msgstr[0] ""
+msgstr[1] ""
+
+#: public/views/competency/create.php:30
+#: public/views/competency/create.php:105
+msgid "Name"
+msgstr ""
+
+#: public/views/competency/create.php:34
+#: public/views/competency/create.php:109
+#: public/views/part/date-picker-custom.php:22
+msgid "Your Birthday"
+msgstr ""
+
+#: public/views/competency/create.php:75
+#: public/views/competency/create.php:150
+#: public/views/part/date-picker-custom.php:65
+msgid "January"
+msgstr ""
+
+#: public/views/competency/create.php:76
+#: public/views/competency/create.php:151
+#: public/views/part/date-picker-custom.php:66
+msgid "February"
+msgstr ""
+
+#: public/views/competency/create.php:77
+#: public/views/competency/create.php:152
+#: public/views/part/date-picker-custom.php:67
+msgid "March"
+msgstr ""
+
+#: public/views/competency/create.php:78
+#: public/views/competency/create.php:153
+#: public/views/part/date-picker-custom.php:68
+msgid "April"
+msgstr ""
+
+#: public/views/competency/create.php:79
+#: public/views/competency/create.php:154
+#: public/views/part/date-picker-custom.php:69
+msgid "May"
+msgstr ""
+
+#: public/views/competency/create.php:80
+#: public/views/competency/create.php:155
+#: public/views/part/date-picker-custom.php:70
+msgid "June"
+msgstr ""
+
+#: public/views/competency/create.php:81
+#: public/views/competency/create.php:156
+#: public/views/part/date-picker-custom.php:71
+msgid "July"
+msgstr ""
+
+#: public/views/competency/create.php:82
+#: public/views/competency/create.php:157
+#: public/views/part/date-picker-custom.php:72
+msgid "August"
+msgstr ""
+
+#: public/views/competency/create.php:83
+#: public/views/competency/create.php:158
+#: public/views/part/date-picker-custom.php:73
+msgid "September"
+msgstr ""
+
+#: public/views/competency/create.php:84
+#: public/views/competency/create.php:159
+#: public/views/part/date-picker-custom.php:74
+msgid "October"
+msgstr ""
+
+#: public/views/competency/create.php:85
+#: public/views/competency/create.php:160
+#: public/views/part/date-picker-custom.php:75
+msgid "November"
+msgstr ""
+
+#: public/views/competency/create.php:86
+#: public/views/competency/create.php:161
+#: public/views/part/date-picker-custom.php:76
+msgid "December"
+msgstr ""
+
+#: public/views/competency/create.php:178
+msgid "Add a person"
+msgstr ""
+
+#: public/views/competency/create.php:179
+msgid "Generate"
+msgstr ""
+
+#: public/views/competency/empty.php:3
+msgid "You did not create any combinations yet!"
+msgstr ""
+
+#: public/views/competency/index.php:50
+msgctxt "my-mayan-sign"
+msgid "Competency analysis"
+msgstr ""
+
+#: public/views/competency/index.php:55
+msgctxt "my-mayan-sign"
+msgid "For:"
+msgstr ""
+
+#: public/views/competency/index.php:56
+msgctxt "my-mayan-sign"
+msgid "Created:"
+msgstr ""
+
+#: public/views/competency/index.php:57
+msgctxt "my-mayan-sign"
+msgid "Item:"
+msgstr ""
+
+#: public/views/competency/index.php:59
+msgctxt "my-mayan-sign"
+msgid "View Details"
+msgstr ""
+
+#: public/views/competency/index.php:65
+msgctxt "my-mayan-sign"
+msgid "There is nothing to display."
+msgstr ""
+
+#: public/views/competency/upsale.php:3
+msgid "You don't have sufficient number of packages."
+msgstr ""
+
+#: public/views/competency/upsale.php:3
+msgid "Please go to"
+msgstr ""
+
+#: public/views/competency/upsale.php:3
+msgid "shop"
+msgstr ""
+
+#: public/views/competency/upsale.php:3
+msgid "and buy more!"
+msgstr ""
+
+#: public/views/competency/view.php:20
+msgid "Back to Comptency Analysis"
+msgstr ""
+
+#: public/views/competency/view.php:24
+msgid "Compentency analysis for : "
+msgstr ""
+
+#: public/views/competency/view.php:39
+msgid "Your Future Sign - "
+msgstr ""
+
+#: public/views/competency/view.php:79
+msgid "Your Destiny Male Sign - "
+msgstr ""
+
+#: public/views/competency/view.php:87
+msgid "Your Destiny Female Sign - "
+msgstr ""
+
+#: public/views/custom_calendar_top.php:19 public/views/night_lord.php:20
+#: public/views/reports/core.php:21 public/views/reports/detailed_adult.php:20
+#: public/views/reports/detailed_mature.php:21
+#: public/views/reports/detailed_youth.php:21
+#: public/views/reports/standard_four_directions.php:5
+#: public/views/synthesis.php:22
+msgid "Back to My Reports"
+msgstr ""
+
+#: public/views/custom_calendar_top.php:23
+msgid "Your Significant Days"
+msgstr ""
+
+#: public/views/eight_directions.php:69 public/views/four_directions.php:71
+msgid "Your Youth Sign"
+msgstr ""
+
+#: public/views/eight_directions.php:75 public/views/four_directions.php:77
+msgid "Your Future Sign"
+msgstr ""
+
+#: public/views/eight_directions.php:81
+msgid "Your Youth Male Sign"
+msgstr ""
+
+#: public/views/eight_directions.php:87
+msgid "Your Youth Female Sign"
+msgstr ""
+
+#: public/views/eight_directions.php:93 public/views/four_directions.php:83
+msgid "Your Male Sign"
+msgstr ""
+
+#: public/views/eight_directions.php:99 public/views/four_directions.php:89
+msgid "Your Female Sign"
+msgstr ""
+
+#: public/views/eight_directions.php:105
+msgid "Your Destiny Male Sign"
+msgstr ""
+
+#: public/views/eight_directions.php:111
+msgid "Your Destiny Female Sign"
+msgstr ""
+
+#: public/views/my_reports.php:17
+msgid "Birthday: "
+msgstr ""
+
+#: public/views/my_reports.php:20
+msgid "Day Sign: "
+msgstr ""
+
+#: public/views/my_reports.php:23
+msgid "Galactic Tone: "
+msgstr ""
+
+#: public/views/my_reports.php:26
+msgid "Tercana Sign: "
+msgstr "Trecena Sign: "
+
+#: public/views/my_reports.php:30
+msgid "Read The Report"
+msgstr ""
+
+#: public/views/my_reports.php:32
+msgid "Set the Date of Birth"
+msgstr ""
+
+#: public/views/notifications.php:35
+msgid "Core Sign: "
+msgstr "Day Sign:"
+
+#: public/views/notifications.php:38
+msgid "Expires in: "
+msgstr ""
+
+#: public/views/notifications.php:41
+msgid "Status: "
+msgstr ""
+
+#: public/views/notifications.php:44
+msgid "Purchase Notifications"
+msgstr ""
+
+#: public/views/part/date-picker-custom.php:64
+msgid "Month"
+msgstr ""
+
+#: public/views/part/date-picker-custom.php:82
+msgid "Year"
+msgstr ""
+
+#: public/views/part/gender-picker.php:23
+msgid "Your Gender"
+msgstr ""
+
+#: public/views/part/gender-picker.php:28
+msgid "Please select your gender"
+msgstr ""
+
+#: public/views/part/gifting-email-field.php:22
+msgid "Bunu hediye et"
+msgstr ""
+
+#: public/views/part/popups-email-notifications.php:22
+#: public/views/part/popups-email-notifications.php:36
+#: public/views/part/popups-email-notifications.php:50
+#: public/views/part/popups-email-notifications.php:64
+msgid "Are you sure?"
+msgstr ""
+
+#: public/views/part/popups-email-notifications.php:23
+msgid ""
+"You will stop receiving email notifications for your Important Days, but you "
+"can enable them later."
+msgstr ""
+
+#: public/views/part/popups-email-notifications.php:37
+msgid ""
+"You will stop receiving email notifications for your Daily Mayan Wisdom, but "
+"you can enable them later."
+msgstr ""
+
+#: public/views/part/popups-email-notifications.php:51
+msgid ""
+"You will start receiving email notifications for your Important Days, but "
+"you can disable them later."
+msgstr ""
+
+#: public/views/part/popups-email-notifications.php:65
+msgid ""
+"You will start receiving email notifications for your Daily Mayan Wisdom, "
+"but you can disable them later."
+msgstr ""
+
+#: public/views/reports/detailed_graph.php:225
+#: public/views/reports/simple_graph.php:181
+#: public/views/reports/standard_graph.php:173
+msgid "Lorem ipsum"
+msgstr ""
+
+#: public/views/reports/detailed_graph.php:226
+#: public/views/reports/simple_graph.php:182
+#: public/views/reports/standard_graph.php:174
+msgid "Tone Influences Off"
+msgstr ""
+
+#: public/views/reports/simple_graph.php:50
+#: public/views/reports/simple_graph.php:70
+#: public/views/reports/simple_graph.php:138
+#: public/views/reports/simple_graph.php:158
+#: public/views/reports/standard_graph.php:50
+#: public/views/reports/standard_graph.php:68
+#: public/views/reports/standard_graph.php:132
+#: public/views/reports/standard_graph.php:150
+msgid "Buy Detailed Report"
+msgstr ""
+
+#: public/views/reports/simple_graph.php:60
+#: public/views/reports/simple_graph.php:95
+#: public/views/reports/simple_graph.php:113
+#: public/views/reports/simple_graph.php:148
+msgid "Buy Standard Report"
+msgstr ""
+
+#: public/views/reports/simple_graph.php:176
+msgid "Standard Report"
+msgstr ""
+
+#: public/views/reports/simple_graph.php:177
+#: public/views/reports/standard_graph.php:168
+msgid "Detailed Report"
+msgstr ""
+
+#: public/views/reports/standard_four_directions.php:25
+msgid "Your Youth Tone -"
+msgstr ""
+
+#: public/views/upsale/notifications.php:20
+msgid "You have not purchased any notifications yet. "
+msgstr ""
