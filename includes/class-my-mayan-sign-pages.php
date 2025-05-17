@@ -170,14 +170,23 @@ class My_Mayan_Sign_Pages {
 		$signs = mysasi_get_custom_type( 'signs' );
 
 		// $shop_url = get_permalink( wc_get_page_id( 'shop' ));
-		// $shop_url = 'https://mymayansign.com/cartflows_step/checkout-page-2/';
-		// $shop_url = 'https://mymayansign.com/product/detailed-report/';
-		// $shop_url = 'https://mymayansign.com/get-detailed-report/';
 		$shop_url = get_site_url() . '/get-detailed-report/';
 
 		$purchase_label = __( 'Claim My Full Report!', 'my-mayan-sign' );
 
 		$data['link_to_shop'] = '<p><a href="' . $shop_url . '" class="btn calc_cta_btn">' . $purchase_label . '</a></p>';
+		// Pass graph data
+		$data['graph_data'] = [
+			'youth_male' => $data['youth_male'],
+			'youth' => $data['youth'],
+			'youth_female' => $data['youth_female'],
+			'tone' => $data['tone'],
+			'male' => $data['male'],
+			'female' => $data['female'],
+			'destiny_male' => $data['destiny_male'],
+			'destiny_female' => $data['destiny_female'],
+			'future' => $data['future']
+		];
 
 		$data['day_sign']['content'] = $data['day_sign']['calculator_text'];
 

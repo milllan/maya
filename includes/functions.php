@@ -162,23 +162,10 @@ function mms_cron_schedule_task() {
 add_filter( 'init', 'mms_cron_schedule_task' );
 
 function mymasi_view( $path, $data ) {
-	$url = plugins_url( $path, __DIR__ );
-
-	$ch = curl_init();
-
-	$username = 'mms';
-	$password = 'pixel$mms';
-	curl_setopt( $ch, CURLOPT_USERPWD, "$username:$password" );
-	curl_setopt( $ch, CURLOPT_URL, $url );
-	curl_setopt( $ch, CURLOPT_POST, 1 );
-	curl_setopt( $ch, CURLOPT_POSTFIELDS, http_build_query( $data ) );
-
-	curl_setopt( $ch, CURLOPT_RETURNTRANSFER, true );
-
-	$server_output = curl_exec( $ch );
-
-	curl_close( $ch );
-	return $server_output;
+	extract($data);
+	ob_start();
+	include plugin_dir_path(__DIR__) . 'public' . $path;
+	return ob_get_clean();
 }
 
 /*
@@ -188,8 +175,6 @@ function mysasi_get_custom_type( $cpt ) {
 	// for Calculator page
 	$purchase_label = __( 'Would you like to read more? Please click here to order.', 'my-mayan-sign' );
 	// $link_to_shop = ' <a href="' . get_permalink(wc_get_page_id('shop')) . '" title="' . $purchase_label . '">&#91;...&#93;</a>';
-	// $link_to_shop = ' <a href="https://mymayansign.com/product/detailed-report/" title="' . $purchase_label . '">&#91;...&#93;</a>';
-	// $link_to_shop = ' <a href="https://mymayansign.com/get-detailed-report/" title="' . $purchase_label . '">&#91;...&#93;</a>';
 	$link_to_shop = ' <a href="' . get_site_url() . '/get-detailed-report/" title="' . $purchase_label . '">&#91;...&#93;</a>';
 
 	$args = array(
@@ -220,7 +205,7 @@ function mysasi_get_custom_type( $cpt ) {
 		if ( $post_thumbnail_id ) {
 			$url                  = wp_get_attachment_image_url( $post_thumbnail_id, 'full' );
 			$part                 = explode( 'wp-content', $url );
-			$result[ $no ]['img'] = $url;
+			$result[ $no ]['img'] = add_query_arg('v', filemtime($result[ $no ]['img_f']), $url);
 			if ( isset( $part[1] ) ) {
 				$result[ $no ]['img_f'] = $_SERVER['DOCUMENT_ROOT'] . '/wp-content' . $part[1];
 			} else {
